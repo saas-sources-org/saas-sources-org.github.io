@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saas-sources-org.github.io/sitemap.xml
